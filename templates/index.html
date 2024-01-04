@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+</head>
+<body>
+    <h1>Password Generator</h1>
+    <form action="/generate" method="post">
+        <label for="length">Password Length:</label>
+        <input type="number" name="length" value="20" min="1" required>
+        <button type="submit">Generate Password</button>
+    </form>
+</body>
+</html>
