@@ -25,7 +25,7 @@ This Flask application provides a user-friendly interface to generate secure pas
     ```
 
 3. **Access the Password Generator:**
-   Open your web browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+   Open your web browser and go to [https://password-genie-wispy-flower-9704.fly.dev/](password-genie)
 
 4. **Generate Passwords:**
    - Enter the desired password length.
@@ -53,7 +53,6 @@ For deployment instructions and more advanced configurations, refer to the [Depl
 
 ## Author
 
-- [Your Name]
-- [Your Email]
+- [Precious Edmund](https://github.com/Chibuike-edmund)
 
 ## Enjoy Generating Secure Passwords! 🚀
